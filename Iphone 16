@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone 16</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Optional: link to CSS -->
+</head>
+<body>
+    <header>
+        <h1>iPhone 16</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Overview</h2>
+            <p>The iPhone 16 features the latest technology, enhanced performance, and innovative design.</p>
+        </section>
+        <section>
+            <h2>Key Features</h2>
+            <ul>
+                <li>Improved Camera System</li>
+                <li>Faster A17 Chip</li>
+                <li>Enhanced Battery Life</li>
+                <li>New Color Options</li>
+                <li>iOS 17 Support</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Release Date
+            The iPhone 16 was released on September 20, 2024.</h2>
+            <p>The iPhone 16 is set to release on [insert date].</p>
+        </section>
+        <section>
+            <h2>Pricing</h2>
+            <p>Starting at [insert price].</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 tushar.</p>
+    </footer>
+</body>
+</html>
